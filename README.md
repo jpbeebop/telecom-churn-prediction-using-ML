@@ -1,4 +1,4 @@
-"#telecom-churn-prediction-using-ML" 
+# telecom-churn-prediction-using-ML
 
 Predict the churn rate of a fictional telecom company using Machine Learning techniques such as:
 - Logistic Regression
